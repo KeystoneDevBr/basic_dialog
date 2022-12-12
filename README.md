@@ -13,7 +13,7 @@ sudo apt install zip
 ```
 # Download the files and extract it
 ```
-wget https://github.com/KeystoneDevBr/basic_dialog/archive/refs/heads/main.z
+wget https://github.com/KeystoneDevBr/basic_dialog/archive/refs/heads/main.zip
 
 unzip main.zip 
 ```
